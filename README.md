@@ -7,7 +7,7 @@
 
 ## В результате тестирования выявлены следующие дефекты:
 
-[При вводе валидного номера карты, отличного от 16-значного, получаем результат `FAIL`](https://github.com/baskrasen/javaqa-homeworks-1-credit_card_number-_validator/issues/1)
+При вводе валидного номера карты, отличного от 16-значного, получаем результат `FAIL` - https://github.com/baskrasen/javaqa-homeworks-1-credit_card_number-_validator/issues/1
 
 ## Описание процесса тестирования
 
